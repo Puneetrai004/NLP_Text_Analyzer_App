@@ -6,4 +6,4 @@ A comprehensive NLP application built with Streamlit that provides various text 
 
 - **Text Preprocessing**: Clean and preprocess text by removing stopwords, punctuation, and applying lemmatization
 - **Sentiment Analysis**: Analyze the sentiment of text (positive, negative, neutral) with polarity and subjectivity scores
-- **Named Entity Recognition (NER)
+- **Named Entity Recognition (NER)**
